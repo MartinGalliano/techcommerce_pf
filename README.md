@@ -25,7 +25,7 @@
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)
 
 #
 
@@ -53,7 +53,7 @@
 ##### Fransisco Santiago de la Cruz | [Linkedin](https://mx.linkedin.com/in/franciscosantiagoc/) | [Github](https://github.com/franciscosantiagoc)
 ##### Pablo Bustos | [Linkedin](https://www.linkedin.com/in/pablo-bustos-/) | [Github](https://github.com/PabloAgustinBustos)
 ##### Fernando Luis Barrios Alarcon | [Linkedin](https://www.linkedin.com/in/fernandolba/) | [Github](https://github.com/fernandolba)
-##### Tomas Pereletegui | [Linkedin] (https://www.linkedin.com/in/tpereletegui/) | [Github]  (https://github.com/Tpereletegui)
+##### Tomas Pereletegui | [Linkedin](https://www.linkedin.com/in/tpereletegui/) | [Github](https://github.com/Tpereletegui)
 #####  | [Linkedin] () | [Github]  ()
 ##### Martin Galliano  | [Linkedin](https://www.linkedin.com/in/martin-galliano-hr/) | [Github](https://github.com/MartinGalliano)
 
