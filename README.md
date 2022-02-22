@@ -32,8 +32,8 @@
 
 <p align='center'>
 <kbd> 
-       <img src="client/src/assets/img/Captura.JPG" width="25%">         
-       <img src="client/src/assets/img/Captura2.JPG" width="25%">    
+       <img src="client/src/assets/img/Captura.JPG" width="50%">         
+       <img src="client/src/assets/img/Captura2.JPG" width="50%">    
        <img src="assets/img/Resto-Details.jpeg" width="250px">    
        </kbd>
   </p>
