@@ -1,5 +1,5 @@
 <p align='center'>
-<img src='client/src/assets/img/Entero.png' width = '100%'>                                                                                    
+<img src='client/src/assets/img/Entero.png' width = '50%'>                                                                                    
 </p>
 
 #
