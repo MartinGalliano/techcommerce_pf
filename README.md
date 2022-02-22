@@ -4,9 +4,12 @@
 
 #
 
-#### Aplicacion mobile creada por un grupo de 7 desarolladores incluyendome, app desarollada en react native para el front y firebase para el back, dentro de sus funcionalidades mas importantes estan la geolocalisacion de locales gastronomicos por cercania o zona, la posibilidad de crear tu resto/bar y sus sucursales, hacer reservas, pagarlas. Las reservas tienen un cupo que pone el propio dueño del resto, asi tambien como el valor de la misma y el horario en que se puede hacer las reservas. Restobook cuenta con un perfil de usuario personalizable y es alli donde se puede visualizar las reservas realizadas y los locales favoritos, entre otras funcionalidades mas.
+#### Aplicacion creada por un grupo de 6 desarolladores incluyendome, E-commerce orientado a la compra y venta de productos tecnologicos del lado del cliente usamos tegnologias como react, redux, para la parte de estilos usamos MUI. Del lado del servidor usamos Node.js, express y base de datos posgreSQL.
+#### Dentro de sus funcionalidades mas importantes aparte de tener todas las funcionalidades de un E-commerse (compra de articulos, visualizacion, filtrado y creacion de productos,poder logiarte como user o admin,     
+
 
 #
+                                                      https://techcommercepf.netlify.app/
 
 #### Tech Stack :
 
@@ -50,7 +53,7 @@
 ##### Fransisco Santiago de la Cruz | [Linkedin](https://mx.linkedin.com/in/franciscosantiagoc/) | [Github](https://github.com/franciscosantiagoc)
 ##### Pablo Bustos | [Linkedin](https://www.linkedin.com/in/pablo-bustos-/) | [Github](https://github.com/PabloAgustinBustos)
 ##### Fernando Luis Barrios Alarcon | [Linkedin](https://www.linkedin.com/in/fernandolba/) | [Github](https://github.com/fernandolba)
-#####  | [Linkedin] () | [Github]  ()
+##### Tomas Pereletegui | [Linkedin] (https://www.linkedin.com/in/tpereletegui/) | [Github]  (https://github.com/Tpereletegui)
 #####  | [Linkedin] () | [Github]  ()
 ##### Martin Galliano  | [Linkedin](https://www.linkedin.com/in/martin-galliano-hr/) | [Github](https://github.com/MartinGalliano)
 
