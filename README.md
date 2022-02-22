@@ -9,7 +9,7 @@
 
 
 #
-                                                      https://techcommercepf.netlify.app/
+                                                    [Linkedin](https://techcommercepf.netlify.app/)
 
 #### Tech Stack :
 
