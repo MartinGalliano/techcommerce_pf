@@ -33,7 +33,7 @@
 <p align='center'>
 <kbd> 
        <img src="client/src/assets/img/Captura.JPG" width="250px">         
-       <img src="assets/img/Register-resto.jpeg" width="250px">    
+       <img src="client/src/assets/img/Captura2.JPG" width="250px">    
        <img src="assets/img/Resto-Details.jpeg" width="250px">    
        </kbd>
   </p>
