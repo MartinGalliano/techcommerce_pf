@@ -8,7 +8,7 @@
 
 #
 
-## Te invitamos a que pruebes nuestra app clickeando el siguiente link: [Tech-C](https://techcommercepf.netlify.app/).
+## Te invitamos a que pruebes nuestra app clickeando el siguiente link: [Tech-C](https://techcommercepf.netlify.app/)
 
 #### Tech Stack :
 
