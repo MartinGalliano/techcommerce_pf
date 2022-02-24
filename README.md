@@ -4,8 +4,7 @@
 
 #
 
-#### Aplicacion creada por un grupo de 6 desarolladores incluyendome, E-commerce orientado a la compra y venta de productos tecnologicos del lado del cliente usamos tegnologias como react, redux, para la parte de estilos usamos MUI. Del lado del servidor usamos Node.js, express y base de datos posgreSQL. Dentro de sus funcionalidades mas importantes aparte de tener todas las funcionalidades de un E-commerse (compra de articulos, visualizacion, filtrado y creacion de productos,poder logiarte como user o admin, en construccion..... .  
-
+#### Aplicacion creada por un grupo de 6 desarolladores incluyendome, E-commerce orientado a la compra y venta de productos tecnologicos del lado del cliente usamos tegnologias como react, redux, para la parte de estilos usamos css, MUI, cabe aclarar que la app es responsive, es dicir esta adaptada para las pantallas chicas tambien(celulares,tablests). Del lado del servidor usamos Node.js, express y base de datos posgreSQL y firebase para el login con una cuenta google. Dentro de sus funcionalidades mas importantes aparte de tener todas las funcionalidades de un E-commerse convencional (compra de articulos, visualizacion, filtrado y creacion de productos,poder logiarte como user o admi. Del lado del admin poder forzar contraseña eliminar un usuario, darle la posibilidad ser admin. Tambien el admin tiene la funcionalidad de ver, crear, pausar, reactivar o eliminar un producto, marca o categoria de dicha app .) Ademas la app cuenta con un seguimiento del producto, la posivilidad de    
 #
 
 ## Te invitamos a que pruebes nuestra app clickeando el siguiente link: [Tech-C](https://techcommercepf.netlify.app/)
