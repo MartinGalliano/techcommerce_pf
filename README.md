@@ -40,7 +40,7 @@
   <p align='center'>
   <kbd> 
       <img src="client/src/assets/img/CapturaCompra.JPG "width="35%" >        
-      <img src="client/src/assets/img/CapturaEnvio.JPG" width="30%"> 
+      <img src="client/src/assets/img/CapturaEnvio.JPG" width="25%"> 
       <img src="client/src/assets/img/CapturaAdmin.JPG" width="33%"> 
   </kbd>
 </p>
