@@ -32,9 +32,9 @@
 
 <p align='center'>
 <kbd> 
-       <img src="client/src/assets/img/Captura.JPG" width="35%">         
-       <img src="client/src/assets/img/Captura2.JPG" width="35%">    
-       <img src="client/src/assets/img/loginCaptura.JPG" width="35%">    
+       <img src="client/src/assets/img/Captura.JPG" width="30%">         
+       <img src="client/src/assets/img/Captura2.JPG" width="30%">    
+       <img src="client/src/assets/img/loginCaptura.JPG" width="30%">    
        </kbd>
   </p>
   <p align='center'>
