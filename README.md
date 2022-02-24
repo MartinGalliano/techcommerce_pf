@@ -53,7 +53,7 @@
 ##### Pablo Bustos | [Linkedin](https://www.linkedin.com/in/pablo-bustos-/) | [Github](https://github.com/PabloAgustinBustos)
 ##### Fernando Luis Barrios Alarcon | [Linkedin](https://www.linkedin.com/in/fernandolba/) | [Github](https://github.com/fernandolba)
 ##### Tomas Pereletegui | [Linkedin](https://www.linkedin.com/in/tpereletegui/) | [Github](https://github.com/Tpereletegui)
-#####  | [Linkedin] () | [Github]  ()
+##### David Larios | [Linkedin](https://www.linkedin.com/in/dev-david-larios/) | [Github](https://github.com/Davidcastel26)
 ##### Martin Galliano  | [Linkedin](https://www.linkedin.com/in/martin-galliano-hr/) | [Github](https://github.com/MartinGalliano)
 
 #
