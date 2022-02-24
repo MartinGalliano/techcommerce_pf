@@ -34,14 +34,14 @@
 <kbd> 
        <img src="client/src/assets/img/Captura.JPG" width="35%">         
        <img src="client/src/assets/img/Captura2.JPG" width="35%">    
-       <img src="assets/img/Resto-Details.jpeg" width="250px">    
+       <img src="client/src/assets/img/loginCaptura.JPG" width="250px">    
        </kbd>
   </p>
   <p align='center'>
   <kbd> 
-      <img src="assets/img/Menu.jpeg" width="277px">        
-      <img src="assets/img/geolocation.jpeg" width="250px"> 
-      <img src="assets/img/UserProfile.jpeg" width="250px"> 
+      <img src="client/src/assets/img/CapturaCompra.JPG" width="277px">        
+      <img src="client/src/assets/img/CapturaEnvio.JPG" width="250px"> 
+      <img src="client/src/assets/img/CapturaAdmin.JPG" width="250px"> 
   </kbd>
 </p>
 
