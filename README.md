@@ -39,9 +39,9 @@
   </p>
   <p align='center'>
   <kbd> 
-      <img src="client/src/assets/img/CapturaCompra.JPG "width="30%" height = "500px">        
+      <img src="client/src/assets/img/CapturaCompra.JPG "width="30%" height = "100px">        
       <img src="client/src/assets/img/CapturaEnvio.JPG" width="30%"> 
-      <img src="client/src/assets/img/CapturaAdmin.JPG" width="30%"> 
+      <img src="client/src/assets/img/CapturaAdmin.JPG" width="30%"height = "100px"> 
   </kbd>
 </p>
 
