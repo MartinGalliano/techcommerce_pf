@@ -49,7 +49,7 @@
 
 #### Developers: 
 
-##### Fransisco Santiago de la Cruz | [Linkedin](https://mx.linkedin.com/in/franciscosantiagoc/) | [Github](https://github.com/franciscosantiagoc)
+##### Francisco Santiago de la Cruz | [Linkedin](https://mx.linkedin.com/in/franciscosantiagoc/) | [Github](https://github.com/franciscosantiagoc)
 ##### Pablo Bustos | [Linkedin](https://www.linkedin.com/in/pablo-bustos-/) | [Github](https://github.com/PabloAgustinBustos)
 ##### Fernando Luis Barrios Alarcon | [Linkedin](https://www.linkedin.com/in/fernandolba/) | [Github](https://github.com/fernandolba)
 ##### Tomas Pereletegui | [Linkedin](https://www.linkedin.com/in/tpereletegui/) | [Github](https://github.com/Tpereletegui)
